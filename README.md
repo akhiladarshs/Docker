@@ -1,1 +1,2 @@
-# Docker
+# Doc
+ADD THE index.js AND package.json ALSO TO YOUR CURRENT FOLDER WHERE YOU HAVE THE DOCKERFILE
